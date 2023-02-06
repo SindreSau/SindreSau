@@ -1,15 +1,4 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<style>
-.devicon-container {
-   display: flex;
-   flex: 1 1 auto;
-   justify-content: center;
-}
-.devicon {
-   width: 60px;
-}
-</style>
-
 <div align="center">
 
 <h1> Hi there! 👋 </h1>
@@ -35,12 +24,12 @@ I'm a norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan 
 
 
 <h2> 🛠 Languages and Tools : </h2>
-<div class="devicon-container">
-<img class="devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img class="devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img class="devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img class="devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img class="devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<div style="display: flex; flex: 1 1 auto; justify-content: center;">
+<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img  style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img  style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img  style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img  style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 <h2> 🔥 My Stats</h2>
