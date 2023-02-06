@@ -1,10 +1,59 @@
-<h1> Hi there 👋 </h1>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<style>
+.devicon-container {
+   display: flex;
+   flex: 1 1 auto;
+   justify-content: center;
+}
+.devicon {
+   width: 60px;
+}
+</style>
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif?cid=790b7611d34ced1f5089089d2c3350442263b386b7ec8f01&rid=giphy.gif&ct=g" width="100"/>
+<div align="center">
+
+<h1> Hi there! 👋 </h1>
+
+<h3>I am Sindre Sauarlia</h3>
+<div id="badges">
+  <a href="https://www.facebook.com/sindre.sauarlia/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/sindresauarlia/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sindre-sauarlia-729231265/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
+<br>
 
+<p>
+I'm a norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan University. My ultimate goal is to become a full-stack software developer with a strong focus on frontend development. When i'm not writing code i work as a performing musician playing keyboard-instruments. I believe in the power of collaboration and continuous learning, and I welcome the chance to work on interesting projects. Visit my GitHub to see some of my work and let's connect!
+</p>
+
+
+<h2> 🛠 Languages and Tools : </h2>
+<div class="devicon-container">
+<img class="devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img class="devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img class="devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img class="devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img class="devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
+<h2> 🔥 My Stats</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SindreSau&theme=nord&hide_border=true&border_radius=5&mode=daily)](https://git.io/streak-stats)
+
+<br>
+<br>
+
+<div>
+  <img src="https://media1.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif?cid=790b7611d34ced1f5089089d2c3350442263b386b7ec8f01&rid=giphy.gif&ct=g" width="300px"/>
+</div>
+</div>
 
 <!--
 **SindreSau/SindreSau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
