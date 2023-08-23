@@ -42,9 +42,7 @@ I'm a norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan 
 <br>
 <br>
 
-<div>
-  <img src="https://media1.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif?cid=790b7611d34ced1f5089089d2c3350442263b386b7ec8f01&rid=giphy.gif&ct=g" width="300px"/>
-</div>
+
 </div>
 
 <!--
