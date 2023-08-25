@@ -25,7 +25,7 @@ I'm a norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan 
 
 
 <h2> 🛠 Languages and Tools : </h2>
-<div style="display: flex; flex: 1 1 auto; justify-content: center;">
+<div style="display: flex; flex: 1 1 auto; align-items: start;">
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
