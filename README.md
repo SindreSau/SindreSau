@@ -20,7 +20,7 @@
 <br>
 
 <p>
-I'm a norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan University. My ultimate goal is to become a full-stack software developer with a strong focus on frontend development. When i'm not writing code i work as a performing musician playing keyboard-instruments. I believe in the power of collaboration and continuous learning, and I welcome the chance to work on interesting projects. Visit my GitHub to see some of my work and let's connect!
+I'm a Norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan University. My ultimate goal is to become a full-stack software developer with a strong focus on front-end development. When I'm not writing code I work as a performing musician playing keyboard instruments. I believe in the power of collaboration and continuous learning and welcome the chance to work on interesting projects. Visit my GitHub to see some of my work and let's connect!
 </p>
 
 
@@ -37,10 +37,9 @@ I'm a norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan 
 
 <h2> 🔥 My Stats</h2>
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SindreSau&theme=nord&hide_border=true&border_radius=5&mode=daily)](https://git.io/streak-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindresau)](https://github.com/sindresau/github-readme-stats)
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SindreSau&theme=nord&hide_border=true&border_radius=5&mode=daily)](https://git.io/streak-stats)
 
 <br>
 <br>
