@@ -25,7 +25,7 @@ I'm a norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan 
 
 
 <h2> 🛠 Languages and Tools : </h2>
-<div style="display: flex; flex: 1 1 auto; align-items: start;">
+<div style="display: flex; flex: 1 1 auto; justify-content: center">
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -37,7 +37,7 @@ I'm a norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan 
 
 <h2> 🔥 My Stats</h2>
 
-<div style="display: flex; flex: 1 1 auto; justify-content: center">
+<div style="display: flex; flex: 1 1 auto; align-items: flex-start">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SindreSau&theme=nord&hide_border=true&border_radius=5&mode=daily)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindresau)](https://github.com/sindresau/github-readme-stats)
 </div>
