@@ -37,7 +37,7 @@ I'm a Norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan 
 
 <h2> 🔥 My Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindresau)](https://github.com/sindresau/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindreSau&layout=compact)
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SindreSau&theme=nord&hide_border=true&border_radius=5&mode=daily)](https://git.io/streak-stats)
 
