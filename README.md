@@ -45,25 +45,5 @@ I'm a Norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindreSau&layout=compact)
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SindreSau)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-<br>
-<br>
-
-
-</div>
-
-<!--
-**SindreSau/SindreSau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
