@@ -45,5 +45,5 @@ I'm a Norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindreSau&layout=compact)
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SindreSau&theme=dark)](https://git.io/streak-stats)
 
