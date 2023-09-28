@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <div align="center">
 
-<h1> Hi there! 👋 </h1>
+<h1> Hi there! 👋🏼 </h1>
 
 <h3>I am Sindre Sauarlia</h3>
 
@@ -44,7 +44,8 @@ I'm a Norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindreSau&layout=compact)
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SindreSau&theme=nord&hide_border=true&border_radius=5&mode=daily)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SindreSau)](https://git.io/streak-stats)
 
 <br>
 <br>
