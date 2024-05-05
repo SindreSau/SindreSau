@@ -9,7 +9,7 @@
 <br>
 
 <p>
-I'm a Norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan University. My ultimate goal is to become a full-stack software developer with a strong focus on front-end development. When I'm not writing code I work as a performing musician playing keyboard instruments. I believe in the power of collaboration and continuous learning and welcome the chance to work on interesting projects. Visit my GitHub to see some of my work and let's connect!
+I'm a Norwegian student pursuing a Bachelor's degree in IT at Oslo Metropolitan University. My ultimate goal is to become a full-stack software developer with a strong focus on understanding the broader context of the project i am working on. When I'm not writing code, I work as a performing musician playing keyboard instruments or teaching kids how to play the piano. I believe in the power of collaboration and continuous learning and welcome the chance to work on interesting projects. Feel free to check out my projects here on GitHub and let's connect!
 </p>
 
 <div id="badges">
