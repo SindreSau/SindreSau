@@ -62,7 +62,7 @@ I believe in the power of collaboration and continuous learning and welcome the 
   
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
 <div style="width: 300px; text-align: center;">
-    <div style="height: 250px; object-fit: contain; object-position: 0% 0%; ">
+    <div style="height: 150px; object-fit: contain; object-position: 0% 0%; max-height: 150px;">
     <img src="./assets/furekunst.png" alt="Furekunst Website Thumbnail" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px 10px;"/>
     </div>
     <h3>Furekunst</h3>
@@ -74,7 +74,7 @@ I believe in the power of collaboration and continuous learning and welcome the 
 </div>
 
 <div style="width: 300px; text-align: center;">
-    <div style="height: 250px; object-fit: contain; object-position: 0% 0%; ">
+    <div style="height: 150px; object-fit: contain; object-position: 0% 0%; max-height: 150px;">
     <img src="./assets/bogstadsmie.png" alt="Bogstad Gård Smie Website Thumbnail" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px 10px;"/>
     </div>
     <h3>Bogstad Gård Smie</h3>
