@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <div align="center">
 
-<h1> Hi there! 👋🏼 </h1>
+<h1> Hi there!</h1>
 
-<h3>I am Sindre Sauarlia</h3>
+<h2>Sindre Sauarlia here  👋🏼 </h2>
 
 <br>
 
@@ -26,6 +26,48 @@ I believe in the power of collaboration and continuous learning and welcome the 
   <a href="https://www.linkedin.com/in/sindre-sauarlia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile Badge"/>
   </a>
+</div>
+
+<h2>👷🏼‍♂️ Projects I'm Currently Working On</h2>
+  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+<div style="width: 300px; text-align: center;">
+    <div style="height: 250px; object-fit: contain; object-position: 0% 0%; ">
+    <img src="./assets/furekunst.png" alt="Furekunst Website Thumbnail" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px 10px;"/>
+    </div>
+    <h3>Furekunst</h3>
+    <p>An Astro-powered portfolio website for an artist, featuring a clean design and easy content management.</p>
+    <div style="display: flex; flex-direction: column;">
+        <a href="https://furekunst.no/" target="_blank">Visit Furekunst</a>
+        <a href="https://github.com/SindreSau/furekunst" target="_blank">View Source Code</a>
+    </div>
+</div>
+
+<div style="width: 300px; text-align: center;">
+    <div style="height: 250px; object-fit: contain; object-position: 0% 0%; ">
+    <img src="./assets/bogstadsmie.png" alt="Bogstad Gård Smie Website Thumbnail" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px 10px;"/>
+    </div>
+    <h3>Bogstad Gård Smie</h3>
+    <p>A modern Astro website for a blacksmith business, showcasing their work and services with a user-friendly interface.</p>
+    <div style="display: flex; flex-direction: column;">
+        <a href="https://www.bogstadsmie.no" target="_blank">Visit Bogstad Gård Smie</a>
+        <a href="https://github.com/SindreSau/Smithy-blog" target="_blank">View Source Code</a>
+    </div>
+</div>
+</div>
+
+<!-- Medlytic -->
+<div style="width: 100%; max-width: 620px; margin: 20px auto; text-align: left; padding: 10px">
+  <h3 style="margin: 0; text-align: center;">Medlytic</h3>
+  <p style="margin: 5px 0 10px;">
+    Streamlining data collection, analysis, and visualization for a healthcare startup. Building a dashboard for visualisation and python microservices for generating AI descriptions and HTML ➡️ PDF generation.
+  </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
+    <span style="font-size: 0.9em; border: 1px solid white; padding: 2px 6px; border-radius: 3px;">Python</span>
+    <span style="font-size: 0.9em; border: 1px solid white; padding: 2px 6px; border-radius: 3px;">FastAPI</span>
+    <span style="font-size: 0.9em; border: 1px solid white; padding: 2px 6px; border-radius: 3px;">Laravel</span>
+    <span style="font-size: 0.9em; border: 1px solid white; padding: 2px 6px; border-radius: 3px;">Vue.js</span>
+  </div>
 </div>
 
 <h2> 🛠 Preferred Programming Languages : </h2>
