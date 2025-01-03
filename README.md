@@ -76,6 +76,18 @@ I believe in the power of collaboration and continuous learning and welcome the 
 </div>
 
 <div style="width: 300px; text-align: center;">
+<details><summary><a href="https://www.furekunst.no">Furekunst</a></summary>
+</div>
+<h3>Game name generator</h3>
+<p>An app that helps you generate unique and cool names for your next game character, featuring a backend built using Hono and a frontend using Nuxt.</p>
+<div style="display: flex; flex-direction: column;">
+    <a href="https://furekunst.no/" target="_blank">Visit Furekunst</a>
+    <a href="https://github.com/SindreSau/furekunst" target="_blank">View Source Code</a>
+</div>
+</details>
+</div>
+
+<div style="width: 300px; text-align: center;">
 <details><summary><a href="https://www.bogstadsmie.no">Bogstad gård smie</a></summary>
 
 
