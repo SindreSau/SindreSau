@@ -57,9 +57,9 @@ I believe in the power of collaboration and continuous learning and welcome the 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SindreSau&theme=transparent" alt="GitHub Streak" height="200"/>
 </div>
 
-
 <h2>👷🏼‍♂️ Projects I'm Currently Working On</h2>
-  
+
+<!-- Furekunst -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
 <div style="width: 300px; text-align: center;">
 <details><summary><a href="https://www.furekunst.no">Furekunst</a></summary>
@@ -75,21 +75,9 @@ I believe in the power of collaboration and continuous learning and welcome the 
 </details>
 </div>
 
-<div style="width: 300px; text-align: center;">
-<details><summary><a href="https://www.furekunst.no">Furekunst</a></summary>
-</div>
-<h3>Game name generator</h3>
-<p>An app that helps you generate unique and cool names for your next game character, featuring a backend built using Hono and a frontend using Nuxt.</p>
-<div style="display: flex; flex-direction: column;">
-    <a href="https://furekunst.no/" target="_blank">Visit Furekunst</a>
-    <a href="https://github.com/SindreSau/furekunst" target="_blank">View Source Code</a>
-</div>
-</details>
-</div>
-
+<!-- Bogstad gård -->
 <div style="width: 300px; text-align: center;">
 <details><summary><a href="https://www.bogstadsmie.no">Bogstad gård smie</a></summary>
-
 
 <div style="height: 250px; object-fit: contain; object-position: 0% 0%;">
 <img src="./assets/bogstadsmie.png" alt="Bogstad Gård Smie Website Thumbnail" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px 10px;"/>
@@ -102,6 +90,18 @@ I believe in the power of collaboration and continuous learning and welcome the 
 </div>
 </div>
 </details>
+</div>
+
+<!-- Game name generator -->
+<div style="width: 100%; max-width: 620px; margin: 20px auto; text-align: left; padding: 10px">
+  <h3 style="margin: 0; text-align: center;">Game name generator app</h3>
+  <p style="margin: 5px 0 10px;">
+    A web app that helps you generate a unique cool name for your next game character.
+  </p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <span style="font-size: 0.9em; padding: 2px 6px;">Hono |</span>
+    <span style="font-size: 0.9em; padding: 2px 6px;">Nuxt</span>
+  </div>
 </div>
 
 <!-- Medlytic -->
