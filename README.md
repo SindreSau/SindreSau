@@ -96,11 +96,10 @@ I believe in the power of collaboration and continuous learning and welcome the 
 <div style="width: 100%; max-width: 620px; margin: 20px auto; text-align: left; padding: 10px">
   <h3 style="margin: 0; text-align: center;">Game name generator app</h3>
   <p style="margin: 5px 0 10px;">
-    A web app that helps you generate a unique cool name for your next game character.
+    A web app that helps you generate a unique cool name for your next game character. The app consists of a backend API built with Hono and a frontend built with Nuxt and Tailwind CSS.
   </p>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <span style="font-size: 0.9em; padding: 2px 6px;">Hono |</span>
-    <span style="font-size: 0.9em; padding: 2px 6px;">Nuxt</span>
+    <a href="https://gamenamegen.site" target="_blank">https://gamenamegen.site</a>
   </div>
 </div>
 
