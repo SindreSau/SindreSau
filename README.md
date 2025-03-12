@@ -30,32 +30,25 @@ I believe in the power of collaboration and continuous learning and welcome the 
 
 <h2> 🛠 Preferred Programming Languages : </h2>
 <div style="display: flex; flex: 1 1 auto; justify-content: center; gap: 12px;">
-<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo"/>
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript Logo"/>
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Logo"/>
+<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo"/>
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo"/>
 </div>
 
 <h2> 🛠 Preferred Frameworks and Technologies : </h2>
 <div style="display: flex; flex-wrap: wrap; flex: 1 1 auto; justify-content: center; gap: 8px;">
-<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo"/>
-<!-- Hugging Face logo might need to be sourced separately -->
-<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro Logo"/>
-<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo"/>
-<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js Logo"/>
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Logo"/>
+<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo"/>
+<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS Logo"/>
+<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo"/>
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core Logo"/>
+<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro Logo"/>
+<img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js Logo"/>
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel Logo"/>
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo"/>
 <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker Logo"/>
-</div>
-
-<h2> 🔥 My Stats</h2>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindreSau&show_icons=true&bg_color=00000000" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SindreSau&theme=transparent" alt="GitHub Streak" height="200"/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SindreSau)](https://git.io/streak-stats)
+<img style="width: 60px;" src="https://cdn.brandfetch.io/idDV3aJdBD/w/102/h/102/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Hono Logo"/>
 </div>
 
 <h2>👷🏼‍♂️ Projects I'm Currently Working On</h2>
@@ -116,6 +109,15 @@ I believe in the power of collaboration and continuous learning and welcome the 
     <span style="font-size: 0.9em; padding: 2px 6px;">Laravel |</span>
     <span style="font-size: 0.9em; padding: 2px 6px;">Vue.js</span>
   </div>
+</div>
+
+
+
+<h2> 🔥 My Stats</h2>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindreSau&show_icons=true&bg_color=00000000" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SindreSau&theme=transparent" alt="Stats" height="200" />
 </div>
 
 </div>
