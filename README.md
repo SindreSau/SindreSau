@@ -55,6 +55,7 @@ I believe in the power of collaboration and continuous learning and welcome the 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindreSau&show_icons=true&bg_color=00000000" alt="Top Languages" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SindreSau&theme=transparent" alt="GitHub Streak" height="200"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SindreSau)](https://git.io/streak-stats)
 </div>
 
 <h2>👷🏼‍♂️ Projects I'm Currently Working On</h2>
