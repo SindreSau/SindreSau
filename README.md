@@ -118,7 +118,7 @@ I believe in the power of collaboration and continuous learning and welcome the 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindreSau&show_icons=true&bg_color=00000000" alt="Top Languages" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=SindreSau&theme=transparent" alt="Stats" height="200" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SindreSau?theme=dark)](https://git.io/streak-stats)
 </div>
 
 </div>
